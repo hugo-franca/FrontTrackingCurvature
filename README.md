@@ -1,5 +1,5 @@
 # A machine learning strategy for computing interface curvature in Front-Tracking methods
- This repository contains the example code mentioned in the paper published at the Journal of Computational Physics. The paper can be accessed on this link: LINK.
+ This repository contains the example code mentioned in the paper published at the Journal of Computational Physics. The paper can be accessed on this link: [LINK](https://doi.org/10.1016/j.jcp.2021.110860).
  
  If you have any issues running the code, you can contact us at: [franca.hugo1@gmail.com](mailto:franca.hugo1@gmail.com).
 
